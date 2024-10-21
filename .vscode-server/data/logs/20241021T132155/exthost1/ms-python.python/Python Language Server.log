@@ -18,3 +18,31 @@
 2024-10-21 15:11:01.425 [info] [Info  - 3:11:01 PM] (16841) [IDX(2)] Long operation: index packages file:///home/jejespinosa/py-project (3904ms)
 2024-10-21 15:11:01.426 [info] [Info  - 3:11:01 PM] (16841) indexed(2) 75 files over 1 exec env
 2024-10-21 15:11:01.502 [info] [Info  - 3:11:01 PM] (16841) Indexing finished(2).
+2024-10-21 15:27:33.018 [info] [Info  - 3:27:33 PM] (16841) Setting environmentName for service "py-project": "3.12.3 (global)"
+2024-10-21 15:27:33.019 [info] [Info  - 3:27:33 PM] (16841) Setting pythonPath for service "py-project": "/bin/python3"
+2024-10-21 15:27:33.021 [info] [Info  - 3:27:33 PM] (16841) No include entries specified; assuming /home/jejespinosa/py-project
+2024-10-21 15:27:33.024 [info] [Info  - 3:27:33 PM] (16841) Auto-excluding **/node_modules
+2024-10-21 15:27:33.024 [info] [Info  - 3:27:33 PM] (16841) Auto-excluding **/__pycache__
+2024-10-21 15:27:33.024 [info] [Info  - 3:27:33 PM] (16841) Auto-excluding **/.*
+2024-10-21 15:27:33.076 [info] [Info  - 3:27:33 PM] (16841) Assuming Python version 3.12.3.final.0
+2024-10-21 15:27:33.211 [info] [Info  - 3:27:33 PM] (16841) Found 1 source file
+2024-10-21 15:27:34.636 [info] [Info  - 3:27:34 PM] (16841) Indexer background runner(3) root directory: file:///home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-21 15:27:34.636 [info] [Info  - 3:27:34 PM] (16841) Indexing(3) started
+2024-10-21 15:27:35.840 [info] [Info  - 3:27:35 PM] (16841) scanned(3) 75 files over 1 exec env
+2024-10-21 15:27:36.531 [info] [Info  - 3:27:36 PM] (16841) indexed(3) 75 files over 1 exec env
+2024-10-21 15:27:36.632 [info] [Info  - 3:27:36 PM] (16841) Indexing finished(3).
+2024-10-21 15:27:46.858 [info] [Info  - 3:27:46 PM] (16841) Found 2 source files
+2024-10-21 15:28:35.054 [info] [Info  - 3:28:35 PM] (16841) Starting service instance "<default>"
+2024-10-21 15:28:35.101 [info] [Info  - 3:28:35 PM] (16841) Setting environmentName for service "<default>": "3.12.3 (global)"
+2024-10-21 15:28:35.102 [info] [Info  - 3:28:35 PM] (16841) Setting pythonPath for service "<default>": "/bin/python3"
+2024-10-21 15:28:35.103 [info] [Info  - 3:28:35 PM] (16841) No include entries specified; assuming /<default workspace root>
+2024-10-21 15:28:35.103 [info] [Info  - 3:28:35 PM] (16841) Auto-excluding **/node_modules
+2024-10-21 15:28:35.104 [info] [Info  - 3:28:35 PM] (16841) Auto-excluding **/__pycache__
+2024-10-21 15:28:35.104 [info] [Info  - 3:28:35 PM] (16841) Auto-excluding **/.*
+2024-10-21 15:28:35.159 [info] [Info  - 3:28:35 PM] (16841) Assuming Python version 3.12.3.final.0
+2024-10-21 15:28:35.300 [info] [Error - 3:28:35 PM] (16841) File or directory "/<default workspace root>" does not exist.
+2024-10-21 15:28:35.302 [info] [Info  - 3:28:35 PM] (16841) No source files found.
+2024-10-21 15:28:35.992 [info] [Info  - 3:28:35 PM] (16841) Background analysis(4) root directory: file:///home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-21 15:28:35.998 [info] [Info  - 3:28:35 PM] (16841) Background analysis(4) started
+2024-10-21 18:33:38.074 [info] [Info  - 6:33:38 PM] (16841) Found 3 source files
+2024-10-21 18:34:06.756 [info] [Info  - 6:34:06 PM] (16841) Found 2 source files

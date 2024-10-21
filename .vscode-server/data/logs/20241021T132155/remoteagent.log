@@ -31,3 +31,7 @@
 2024-10-21 15:10:47.358 [info] Extension installed successfully: ms-python.debugpy file:///home/jejespinosa/.vscode-server/extensions/extensions.json
 2024-10-21 15:10:47.358 [info] Extension installed successfully: ms-python.python file:///home/jejespinosa/.vscode-server/extensions/extensions.json
 2024-10-21 15:10:47.359 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/jejespinosa/.vscode-server/extensions/extensions.json
+2024-10-21 16:00:53.977 [info] [127.0.0.1][559653a4][ManagementConnection] The client has reconnected.
+2024-10-21 16:00:54.186 [info] [127.0.0.1][933356d8][ExtensionHostConnection] The client has reconnected.
+2024-10-21 17:58:43.457 [info] [127.0.0.1][933356d8][ExtensionHostConnection] The client has reconnected.
+2024-10-21 17:58:43.861 [info] [127.0.0.1][559653a4][ManagementConnection] The client has reconnected.

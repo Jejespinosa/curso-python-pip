@@ -37,3 +37,36 @@
 2024-10-21 15:10:51.997 [warning] Shell integration may not be active, environment activated may be overridden by the shell.
 2024-10-21 15:10:52.152 [info] Shell integration status changed, can confirm it's working.
 2024-10-21 15:10:52.950 [info] Starting Pylance language server.
+2024-10-21 15:18:37.263 [info] Discover tests for workspace name: py-project - uri: /home/jejespinosa/py-project/hello.py
+2024-10-21 15:27:28.533 [info] Starting Environment refresh
+2024-10-21 15:27:28.534 [info] Searching for interpreters in posix paths locator
+2024-10-21 15:27:28.546 [info] Searching for pyenv environments
+2024-10-21 15:27:28.546 [info] Searching for conda environments
+2024-10-21 15:27:28.549 [info] Searching for global virtual environments
+2024-10-21 15:27:28.549 [info] Searching for custom virtual environments
+2024-10-21 15:27:28.654 [info] > conda info --json
+2024-10-21 15:27:28.664 [info] pyenv is not installed
+2024-10-21 15:27:28.664 [info] Finished searching for pyenv environments: 125 milliseconds
+2024-10-21 15:27:28.666 [info] Finished searching for custom virtual envs: 121 milliseconds
+2024-10-21 15:27:28.671 [info] Finished searching for global virtual envs: 128 milliseconds
+2024-10-21 15:27:28.684 [info] Found: /bin/python3 --> /bin/python3.12
+2024-10-21 15:27:28.687 [info] Found: /bin/python3.12 --> /bin/python3.12
+2024-10-21 15:27:28.704 [info] Found: /usr/bin/python3 --> /usr/bin/python3.12
+2024-10-21 15:27:28.705 [info] Found: /usr/bin/python3.12 --> /usr/bin/python3.12
+2024-10-21 15:27:29.018 [info] Finished searching for interpreters in posix paths locator: 481 milliseconds
+2024-10-21 15:27:29.018 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/interpreterInfo.py
+2024-10-21 15:27:29.073 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/interpreterInfo.py
+2024-10-21 15:27:29.073 [info] Environments refresh paths discovered (event): 548 milliseconds
+2024-10-21 15:27:29.074 [info] Environments refresh paths discovered: 548 milliseconds
+2024-10-21 15:27:29.153 [info] Environments refresh finished (event): 628 milliseconds
+2024-10-21 15:27:29.164 [info] Environment refresh took 641 milliseconds
+2024-10-21 15:27:32.967 [info] Discover tests for workspace name: py-project - uri: /home/jejespinosa/py-project
+2024-10-21 15:27:32.968 [info] Python interpreter path: /bin/python3
+2024-10-21 15:27:35.509 [info] CreateEnv Trigger - Skipping for /home/jejespinosa/py-project/hello.py
+2024-10-21 15:27:36.006 [info] Send text to terminal: /bin/python3 /home/jejespinosa/py-project/hello.py
+2024-10-21 15:28:14.635 [info] > /bin/python3 ~/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64/python_files/normalizeSelection.py
+2024-10-21 17:00:30.267 [info] Discover tests for workspace name: py-project - uri: /home/jejespinosa/py-project/game.py
+2024-10-21 17:06:43.972 [info] Discover tests for workspace name: py-project - uri: /home/jejespinosa/py-project/game.py
+2024-10-21 17:06:44.354 [info] Send text to terminal: /bin/python3 /home/jejespinosa/py-project/game.py
+2024-10-21 17:08:02.076 [info] Discover tests for workspace name: py-project - uri: /home/jejespinosa/py-project/game.py
+2024-10-21 18:34:08.848 [info] Discover tests for workspace name: py-project - uri: /home/jejespinosa/py-project/game/main.py
