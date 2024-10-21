@@ -1,0 +1,20 @@
+2024-10-21 15:10:51.660 [info] (Client) Pylance async client (2024.10.1) started with python extension (2024.16.1)
+2024-10-21 15:10:52.880 [info] [Info  - 3:10:52 PM] (16841) Server root directory: file:///home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-21 15:10:52.882 [info] [Info  - 3:10:52 PM] (16841) Pylance language server 2024.10.1 (pyright version 1.1.382, commit e46efc6b) starting
+2024-10-21 15:10:52.883 [info] [Info  - 3:10:52 PM] (16841) Starting service instance "py-project"
+2024-10-21 15:10:53.072 [info] [Info  - 3:10:53 PM] (16841) Setting environmentName for service "py-project": "python"
+2024-10-21 15:10:53.077 [info] [Info  - 3:10:53 PM] (16841) No include entries specified; assuming /home/jejespinosa/py-project
+2024-10-21 15:10:53.083 [info] [Info  - 3:10:53 PM] (16841) Auto-excluding **/node_modules
+2024-10-21 15:10:53.084 [info] [Info  - 3:10:53 PM] (16841) Auto-excluding **/__pycache__
+2024-10-21 15:10:53.084 [info] [Info  - 3:10:53 PM] (16841) Auto-excluding **/.*
+2024-10-21 15:10:53.327 [info] [Info  - 3:10:53 PM] (16841) Found 1 source file
+2024-10-21 15:10:54.283 [info] [Info  - 3:10:54 PM] (16841) Background analysis(1) root directory: file:///home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist
+2024-10-21 15:10:54.289 [info] [Info  - 3:10:54 PM] (16841) Background analysis(1) started
+2024-10-21 15:10:54.599 [info] [Info  - 3:10:54 PM] (16841) Indexer background runner(2) root directory: file:///home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1/dist (index)
+2024-10-21 15:10:54.600 [info] [Info  - 3:10:54 PM] (16841) Indexing(2) started
+2024-10-21 15:10:56.824 [info] [Info  - 3:10:56 PM] (16841) [IDX(2)] Long operation: scan packages file:///home/jejespinosa/py-project (2016ms)
+2024-10-21 15:10:56.824 [info] [Info  - 3:10:56 PM] (16841) scanned(2) 75 files over 1 exec env
+2024-10-21 15:11:01.350 [info] [Info  - 3:11:01 PM] (16841) [IDX(2)] Long operation: index execution environment file:///home/jejespinosa/py-project (3795ms)
+2024-10-21 15:11:01.425 [info] [Info  - 3:11:01 PM] (16841) [IDX(2)] Long operation: index packages file:///home/jejespinosa/py-project (3904ms)
+2024-10-21 15:11:01.426 [info] [Info  - 3:11:01 PM] (16841) indexed(2) 75 files over 1 exec env
+2024-10-21 15:11:01.502 [info] [Info  - 3:11:01 PM] (16841) Indexing finished(2).

@@ -13,3 +13,21 @@
 2024-10-21 13:33:21.190 [info] [127.0.0.1][933356d8][ExtensionHostConnection] The client has reconnected.
 2024-10-21 14:25:06.230 [info] [127.0.0.1][933356d8][ExtensionHostConnection] The client has reconnected.
 2024-10-21 14:25:06.543 [info] [127.0.0.1][559653a4][ManagementConnection] The client has reconnected.
+2024-10-21 15:10:02.036 [info] Getting Manifest... ms-python.python
+2024-10-21 15:10:02.338 [info] Installing extension: ms-python.python {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jejespinosa/.vscode-server/extensions/extensions.json","external":"file:///home/jejespinosa/.vscode-server/extensions/extensions.json","path":"/home/jejespinosa/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"}}
+2024-10-21 15:10:02.808 [info] Getting Manifest... ms-python.vscode-pylance
+2024-10-21 15:10:02.936 [info] Getting Manifest... ms-python.debugpy
+2024-10-21 15:10:03.034 [info] Installing extension: ms-python.vscode-pylance {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jejespinosa/.vscode-server/extensions/extensions.json","external":"file:///home/jejespinosa/.vscode-server/extensions/extensions.json","path":"/home/jejespinosa/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-21 15:10:03.035 [info] Installing extension: ms-python.debugpy {"isMachineScoped":false,"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"profileLocation":{"$mid":1,"fsPath":"/home/jejespinosa/.vscode-server/extensions/extensions.json","external":"file:///home/jejespinosa/.vscode-server/extensions/extensions.json","path":"/home/jejespinosa/.vscode-server/extensions/extensions.json","scheme":"file"},"productVersion":{"version":"1.94.2","date":"2024-10-09T16:08:44.566Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2024-10-21 15:10:10.488 [info] Extension signature verification result for ms-python.python: Success. Executed: true. Duration: 4827ms.
+2024-10-21 15:10:10.532 [info] Extension signature verification result for ms-python.debugpy: Success. Executed: true. Duration: 4890ms.
+2024-10-21 15:10:15.072 [info] Extracted extension to file:///home/jejespinosa/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64: ms-python.debugpy
+2024-10-21 15:10:15.096 [info] Renamed to /home/jejespinosa/.vscode-server/extensions/ms-python.debugpy-2024.12.0-linux-x64
+2024-10-21 15:10:21.167 [info] Extracted extension to file:///home/jejespinosa/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64: ms-python.python
+2024-10-21 15:10:21.180 [info] Renamed to /home/jejespinosa/.vscode-server/extensions/ms-python.python-2024.16.1-linux-x64
+2024-10-21 15:10:22.061 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 2535ms.
+2024-10-21 15:10:47.280 [info] Extracted extension to file:///home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1: ms-python.vscode-pylance
+2024-10-21 15:10:47.300 [info] Renamed to /home/jejespinosa/.vscode-server/extensions/ms-python.vscode-pylance-2024.10.1
+2024-10-21 15:10:47.358 [info] Extension installed successfully: ms-python.debugpy file:///home/jejespinosa/.vscode-server/extensions/extensions.json
+2024-10-21 15:10:47.358 [info] Extension installed successfully: ms-python.python file:///home/jejespinosa/.vscode-server/extensions/extensions.json
+2024-10-21 15:10:47.359 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/jejespinosa/.vscode-server/extensions/extensions.json
